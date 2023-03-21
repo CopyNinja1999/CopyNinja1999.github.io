@@ -3,5 +3,3 @@
 ## 项目
 
 ## Samples
-
-theme: minima
